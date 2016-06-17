@@ -14,7 +14,7 @@ class SlackNotifier
 
   def payload
     {
-      icon_url: 'https://assets-cdn.github.com/images/modules/logos_page/Octocat.png',
+      icon_url: 'https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png',
       username: 'GitHub PR Assignment',
       attachments: [{
         title: pull_request['title'],
