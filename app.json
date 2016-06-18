@@ -1,0 +1,7 @@
+{
+  "name": "Github Slack PR Review Random Assigner",
+  "description": "Whenever a PR comes in, this Github webhook can randomly message a member of your team on slack to review it.",
+  "repository": "https://github.com/alexanderkustov/github-pr-slack-review-assigner",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["github", "review", "slack"]
+}
